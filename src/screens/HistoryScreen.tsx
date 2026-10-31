@@ -5,7 +5,7 @@ interface Props {
 const TRANSACTIONS = [
   {
     id: "1",
-    merchant: "M Zuckerberg",
+    merchant: "Wired Deposit",
     category: "Deposit",
     date: "2026",
     amount: 40007291,
